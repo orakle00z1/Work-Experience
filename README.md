@@ -42,6 +42,7 @@
 
 
 *توضیح: برای مشاهده بیشتر این فایل شامل ویدئویی از سایت طراحی شده است را دانلود کنید .*
-!(Aim%20doc/mainpage.mp4)  
-!(Aim%20doc/course.mp4) 
+![](Aim%20doc/mainpage.mp4)  
+<br>
+![](Aim%20doc/course.mp4) 
 
